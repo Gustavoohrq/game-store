@@ -3,7 +3,7 @@
 </h1> 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/technecloud/pd-janus-aprovacoes-mobile/master/readme/screen.jpg?token=ALODRDQKDWCUAPK7UE6ZKRC7CXNAS"/>
+  <img src="https://i.pinimg.com/originals/ff/83/cc/ff83ccb3c45a3ba540cd8ce744a825ef.png"/>
 </p> 
 
 ## 📱 Screens
