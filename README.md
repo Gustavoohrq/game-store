@@ -3,7 +3,7 @@
 </h1> 
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ff/83/cc/ff83ccb3c45a3ba540cd8ce744a825ef.png" width="150" height="150"/>
+  <img src="https://i.pinimg.com/originals/ff/83/cc/ff83ccb3c45a3ba540cd8ce744a825ef.png" width="150" height="200"/>
 </p> 
 
 ## 📱 Screens
