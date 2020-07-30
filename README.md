@@ -21,7 +21,6 @@ This project was developed with the following technologies:
 
 Prototype of a game store.
 
-
 ## 👩‍🏫 How to run locally
 
 Note: You need to install the expo on your phone or use an emulator.
@@ -31,4 +30,8 @@ Note: You need to install the expo on your phone or use an emulator.
 - `expo install`;
 - `expo start`;
 
+
+## 🙋‍♂️ Author
+
+* **Gustavo Henrique** - [Gustavoohrq](https://github.com/Gustavoohrq)
  
