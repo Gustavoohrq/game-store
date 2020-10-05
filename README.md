@@ -26,7 +26,7 @@ Prototype of a game store.
 Note: You need to install the expo on your phone or use an emulator.
 
 - `git clone https://github.com/technecloud/game-store`;
-- `game-store`;
+- `cd game-store`;
 - `expo install`;
 - `expo start`;
 
